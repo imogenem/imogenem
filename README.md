@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+(she/her)
+
+Computer Science & Cognitive System student at UBC
+
+I like oranges
