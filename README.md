@@ -1,4 +1,4 @@
-### Hi there 👋
+### Greetings, fellow muggle 👋
 
 <!--
 **imogenem/imogenem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -19,4 +19,6 @@ Here are some ideas to get you started:
 
 Computer Science & Cognitive System student at UBC
 
-I like oranges
+I'm currently working on improving my JS and React skills.
+
+I like oranges a lot.
