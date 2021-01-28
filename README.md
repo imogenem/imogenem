@@ -19,6 +19,4 @@ Here are some ideas to get you started:
 
 Computer Science & Cognitive System student at UBC
 
-I'm currently working on improving my JS and React skills.
 
-All problems can be solved with a little Windex
