@@ -2,12 +2,10 @@
 
 ### Greetings, fellow muggle 👋
 
-Welcome to my portfolio! I am a 4th year Computer Science & Cognitive Systems student at UBC. Currently, I'm taking classes and am seeking a Summer 2022 internship. 
+Welcome to my portfolio! I am a 4th year Computer Science & Cognitive Systems student at UBC. 
 
 Current classes:
-- CPSC 320: Intermediate Algorithm Design and Analysis
-- CPSC 330: Applied Machine Learning
-- CPSC 444: Advanced Methods for Human Computer Interaction
+- CPSC 455: Industry Skills
 
 In my ongoing learning, I am
 - 🌱 currently learning Python, and more about Node.js and Express.js
