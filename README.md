@@ -1,33 +1,26 @@
 (she/her)
 
-### Greetings, fellow muggle 👋
+### Hi there 👋
 
-Welcome to my portfolio! I am a 4th year Computer Science & Cognitive Systems student at UBC. 
+Welcome to my portfolio! I am a 4th year Computer Science student at UBC. 
 
-Current classes:
-- CPSC 455: Industry Skills
+I recently joined WiCS and the UBC girlCode Hackathon teams as their webmaster. Check out my work below!
+
+**girlCode**
+Github: https://github.com/ubcWiCS/ubc-girlcode
+Site: https://www.ubcgirlcode.com/
+
+**WiCS**
+Site: https://ubcwics.com/
+
+I'm in my final semester of classes. Here's what I'm currently taking:
+- CPSC 313: Operating Systems
+- CPSC 330: Applied Machine Learning
+- ASPC 383: Prototyping
 
 In my ongoing learning, I am
 - 🌱 currently learning Python, and more about Node.js and Express.js
 - 👯 looking to collaborate on Hackathon Teams or small app development projects
 
 Have a nice day! 
-
-<!--
-**imogenem/imogenem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ... 
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-
-
 
