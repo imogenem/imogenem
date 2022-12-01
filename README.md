@@ -7,7 +7,8 @@ Welcome to my portfolio! I am a 4th year Computer Science student at UBC.
 I recently joined WiCS and the UBC girlCode Hackathon teams as their webmaster. Check out my work below!
 
 **girlCode**
-Github: https://github.com/ubcWiCS/ubc-girlcode. 
+Github: https://github.com/ubcWiCS/ubc-girlcode
+
 Site: https://www.ubcgirlcode.com/
 
 **WiCS**
