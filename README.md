@@ -11,13 +11,13 @@ Github: https://github.com/ubcWiCS/ubc-girlcode
 
 Site: https://www.ubcgirlcode.com/
 
-**WiCS**
+**WiCS**\
 Site: https://ubcwics.com/
 
-**Something Borrowed**
+**Something Borrowed**\
 Github: https://github.com/phreid/somethingBorrowed
 
-I'm in my final semester of classes. Here's what I'm currently taking:
+I'm in my final semester of classes. Here's what I'm currently taking:\
 - CPSC 313: Operating Systems
 - CPSC 330: Applied Machine Learning
 - ASPC 383: Prototyping
