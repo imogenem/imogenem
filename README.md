@@ -13,6 +13,9 @@ Site: https://www.ubcgirlcode.com/
 **WiCS**
 Site: https://ubcwics.com/
 
+**Something Borrowed**
+Github: https://github.com/phreid/somethingBorrowed
+
 I'm in my final semester of classes. Here's what I'm currently taking:
 - CPSC 313: Operating Systems
 - CPSC 330: Applied Machine Learning
